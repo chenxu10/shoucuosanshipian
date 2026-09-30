@@ -3,4 +3,5 @@
 
 
 if __name__ == "__main__":
-    pass
+    losses = []
+    assert losses[0] > losses[1] > losses[2], losses
