@@ -1,4 +1,4 @@
-# 手措sutskever三十篇
+# 手措Sutskever三十篇
 
 - 不借助任何AI和自动补齐工具，Implement and retrieve from your own memory.
 - 只借助Numpy和Scipy
