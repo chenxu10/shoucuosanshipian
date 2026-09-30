@@ -4,7 +4,7 @@ Core Paper:
 Related Reading:
     - The Asethetics of randomness nassim taleb black swarm
     - M.EJ Newman(2005)
-    - Scaling Laws, Carefully, Lilian Weng
+    - Weng, Lilian. “Scaling Laws, Carefully”. Lil’Log (Jun 2026). https://lilianweng.github.io/posts/2026-06-24-scaling-laws/
 """
 
 
