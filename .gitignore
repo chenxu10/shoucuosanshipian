@@ -1,1 +1,3 @@
 paper22_scaling_laws_for_neural_languages/translation/*
+__pycache__/
+.pytest_cache/
